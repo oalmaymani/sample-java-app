@@ -29,7 +29,7 @@ pipeline {
               sh "mvn clean verify sonar:sonar \
   -Dsonar.projectKey=osaid-almaymani \
   -Dsonar.host.url=http://54.226.50.200 \
-  -Dsonar.login=sqp_9395d7153be3ef51862a6f2f4c8d1f2876a0cb0c"
+  -Dsonar.login=sqp_9552531c828fa179f8467abca9bf2072aad1fc8a"
             }
         }
 
